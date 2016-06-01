@@ -1,4 +1,4 @@
 Django
 django-braces==1.9.0
-djangorestframework
+djangorestframework==3.3.3
 django-allauth==0.25.2
